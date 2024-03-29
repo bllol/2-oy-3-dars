@@ -1,0 +1,46 @@
+.text1{
+    color: green;
+    background-color: yellow;
+}
+
+.text2{
+    color: blue;
+}
+
+.mark-text{
+    background-color: red;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.text-block{
+    text-align: left;
+    border: 1px solid black;
+    border-inline: none;
+}
+
+.logo-image{
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.country-list{
+    list-style-type: lower-greek;
+}
+
+.main-block{
+    width: 800px;
+    height: 300px;
+    background-color: #ed9185;
+    display: flex;
+    align-items: center;
+}
+
+.block{
+    width: 170px;
+    height: 200px;
+    background-color: #fff; 
+    margin-left: 30px;
+}
